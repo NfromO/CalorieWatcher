@@ -1,0 +1,9 @@
+Calorie watcher app via ms dos. we state the days 
+up to 31 and we tell what our calorie limits for 
+each day then we apend it to the csv file
+(excel file sheet extensions). it states how many 
+times we ate per each time calorie lost. no file 
+starts at day 1 with random file name, else starts
+max day shown + 1.
+
+read the file first and check if day starts at or 1
